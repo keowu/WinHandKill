@@ -10,11 +10,11 @@ It is extremely important that before using it, you read the article I am going 
 
 There are two versions available for reading, the first one, obviously, in a language that everyone can understand, English:
 
-[Click here to read and understand the project.](https://joaovitor.gq/posts/Malware-Analysis-Writeup-Bat-Stealer(Chine-Encode)-and-introduzing-WinHandKill-X64DBG-Plugin-English/)
+[Click here to read and understand the project.](https://keowu.re/posts/Malware-Analysis-Writeup-Bat-Stealer(Chine-Encode)-and-introduzing-WinHandKill-X64DBG-Plugin-English/)
 
 For portuguese: Se você fala português, você não necessariamente precisa falar inglês para usar, você poder ler no seu idioma nativo:
 
-[Clique aqui para ler e entender o projeto](https://joaovitor.gq/posts/Malware-Analysis-Writeup-Bat-Stealer(Chine-Encode)-and-introduzing-WinHandKill-X64DBG-Plugin-Portugues/)
+[Clique aqui para ler e entender o projeto](https://keowu.re/posts/Malware-Analysis-Writeup-Bat-Stealer(Chine-Encode)-and-introduzing-WinHandKill-X64DBG-Plugin-Portugues/)
 
 #### How to use video
 
